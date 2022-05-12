@@ -1,0 +1,20 @@
+
+table{
+  background-color:#EEE4AB;
+}
+hr{
+
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 6px;
+}
+.clr1
+{
+  background-color: pink;
+}
+.clr2
+{
+  background-color: #68A7AD;
+}

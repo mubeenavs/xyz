@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color:#FEE2C5;
+  }
+h1
+{
+margin: 0 ;
+}
+.div1{
+  height:200px;
+  width:200px;
+  padding:20px;
+  background-color:#68A7AD;
+  border:solid;
+  border-width:10px;
+}
+
+.div2{
+  margin-left: 260px;
+  background-color: #99C4C8;
+  width:200px;
+  height: 200px;
+  border:solid;
+  border-width:30px;
+}
+p
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.div3
+{
+  margin-left: 520px;
+  background-color: #C4DDFF;
+  width:200px;
+  height: 200px;
+  border:solid;
+  border-width:10px;
+}
